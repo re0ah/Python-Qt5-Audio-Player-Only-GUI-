@@ -1,0 +1,634 @@
+{"startmenu": 
+	{
+		"wrap_settings_btn":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF",
+			"highlightbackground": "#000000"
+		},
+		"settings_btn":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"bd": 0,
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"wrap_authorization_btn":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF",
+			"highlightbackground": "#000000"
+		},
+		"authorization_btn":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"bd": 0,
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"root":
+		{
+			"bg": "#868686"
+		},
+		"main_frame":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightbackground": "#000000"
+		},
+		"top_main_frame":
+		{
+			"bg": "#868686"
+		},
+		"title":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"text_frame":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightbackground": "#000000"
+		},
+		"text_frame_text":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"radio_frame":
+		{
+			"bg": "#868686"
+		},
+		"web_frame":
+		{
+			"bg": "#868686"
+		},
+		"locale_frame":
+		{
+			"bg": "#868686"
+		},
+		"locale_top_frame":
+		{
+			"bg": "#868686"
+		},
+		"locale_cover":
+		{
+			"bg": "#868686"
+		},
+		"locale_info_frame":
+		{
+			"bg": "#868686"
+		},
+		"locale_song_name":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"locale_control_frame":
+		{
+			"bg": "#868686"
+		},
+		"locale_wrapper_button_0":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"locale_wrapper_button_1":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"locale_wrapper_button_2":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"locale_wrapper_button_3":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"locale_button_0":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"locale_button_1":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"locale_button_2":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"locale_button_3":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"locale_song_scale_frame":
+		{
+			"bg": "#868686"
+		},
+		"locale_song_scale_wrapper":
+		{
+			"bg": "#868686"
+		},
+		"locale_song_scale":
+		{
+			"bg": "#868686"
+		},
+		"locale_song_lbl_now":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"locale_song_lbl_end":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"locale_song_volume_wrapper":
+		{
+			"bg": "#868686"
+		},
+		"locale_song_volume":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"highlightthickness": 0
+		},
+		"locale_playlist_frame":
+		{
+			"bg": "#868686"
+		},
+		"locale_itemlist":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"highlightbackground": "#000000"
+		},
+		"locale_itemlist_scrollbar":
+		{
+			"bg": "#868686"
+		},
+		"bottom_bar":
+		{
+			"bg": "#868686"
+		},
+		"wrap_btn_radio":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF",
+			"highlightbackground": "#000000"
+		},
+		"btn_radio":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"bd": 0,
+			"highlightbackground": "#000000",
+			"activebackground": "#666666",
+			"activeforeground": "#000000",
+			"selectcolor": "#666666"
+		},
+		"wrap_btn_web":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF",
+			"highlightbackground": "#000000"
+		},
+		"btn_web":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"bd": 0,
+			"highlightbackground": "#000000",
+			"activebackground": "#666666",
+			"activeforeground": "#000000",
+			"selectcolor": "#666666"
+		},
+		"wrap_btn_locale":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF",
+			"highlightbackground": "#000000"
+		},
+		"btn_locale":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"bd": 0,
+			"highlightbackground": "#000000",
+			"activebackground": "#666666",
+			"activeforeground": "#000000",
+			"selectcolor": "#666666"
+		}
+	},
+	"settings":
+	{
+		"root":
+		{
+			"bg": "#868686"
+		},
+		"left_master":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"itemlist_frame":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightbackground": "#000000"
+		},
+		"itemlist_btn_0":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"highlightbackground": "#000000",
+			"selectcolor": "#666666",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"itemlist_btn_1":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"highlightbackground": "#000000",
+			"selectcolor": "#666666",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"itemlist_btn_2":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"highlightbackground": "#000000",
+			"selectcolor": "#666666",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"item_scrollbar":
+		{
+			"bg": "#868686",
+			"activebackground": "#666666"
+		},
+		"itemlist_box":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"highlightbackground": "#000000"
+		},
+		"right_master":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF",
+			"highlightbackground": "#000000"
+		},
+		"top_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"network_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"host_entry_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"host_entry":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"host_label":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"port_entry_frame":
+		{
+			"bg": "#868686"
+		},
+		"port_entry":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"port_label":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"theme_frame":
+		{
+			"bg": "#868686"
+		},
+		"theme_scrollbar":
+		{
+			"bg": "#868686",
+			"activebackground": "#666666"
+		},
+		"theme_itemlist":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"equalizer_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"equalizer_top_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"equalizer_genres":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"equalizer_save_btn_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"equalizer_save_btn":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"equalizer_bot_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"equalizer_scale":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666"
+		},
+		"equalizer_scale_lbl":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"equalizer_scale_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"bottom_frame":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"wrap_bottom_bar_btn_0":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"bottom_bar_btn_0":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"wrap_bottom_bar_btn_1":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"bottom_bar_btn_1":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"wrap_bottom_bar_btn_2":
+		{
+			"bg": "#868686",
+			"highlightbackground": "#000000"
+		},
+		"bottom_bar_btn_2":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		}
+	},
+	"authorization":
+	{
+		"root":
+		{
+			"bg": "#868686"
+		},
+		"top_frame":
+		{
+			"bg": "#868686"
+		},
+		"avatar_frame":
+		{
+			"bg": "#868686"
+		},
+		"avatar":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"info_frame":
+		{
+			"bg": "#868686"
+		},
+		"info_top_frame":
+		{
+			"bg": "#868686"
+		},
+		"name_lbl":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"date":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"action_menu":
+		{
+		},
+		"genres_frame":
+		{
+			"bg": "#868686"
+		},
+		"genres_lbl":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"genres_menu":
+		{
+		},
+		"groups_frame":
+		{
+			"bg": "#868686"
+		},
+		"groups_lbl":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"groups_menu":
+		{
+		},
+		"mid_frame":
+		{
+			"bg": "#868686",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF",
+			"highlightbackground": "#000000"
+		},
+		"album_frame_0":
+		{
+			"bg": "#868686"
+		},
+		"album_frame_1":
+		{
+			"bg": "#868686"
+		},
+		"album_frame_2":
+		{
+			"bg": "#868686"
+		},
+		"album_frame_3":
+		{
+			"bg": "#868686"
+		},
+		"album_photo_0":
+		{
+			"bg": "#868686"
+		},
+		"album_photo_1":
+		{
+			"bg": "#868686"
+		},
+		"album_photo_2":
+		{
+			"bg": "#868686"
+		},
+		"album_photo_3":
+		{
+			"bg": "#868686"
+		},
+		"album_name_0":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"album_name_1":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"album_name_2":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"album_name_3":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"album_artist_0":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"album_artist_1":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"album_artist_2":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"album_artist_3":
+		{
+			"bg": "#868686",
+			"fg": "#111111"
+		},
+		"bottom_frame":
+		{
+			"bg": "#868686"
+		},
+		"wrap_bottom_btn_0":
+		{
+			"bg": "#868686"
+		},
+		"wrap_bottom_btn_1":
+		{
+			"bg": "#868686"
+		},
+		"wrap_bottom_btn_2":
+		{
+			"bg": "#868686"
+		},
+		"bottom_btn_0":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"bottom_btn_1":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		},
+		"bottom_btn_2":
+		{
+			"bg": "#868686",
+			"fg": "#111111",
+			"activebackground": "#666666",
+			"activeforeground": "#000000"
+		}
+	}
+}
