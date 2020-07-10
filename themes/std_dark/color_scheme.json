@@ -1,0 +1,606 @@
+{"startmenu": 
+	{
+		"wrap_settings_btn":
+		{
+			"bg": "#141414",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF"
+		},
+		"settings_btn":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"bd": 0,
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		},
+		"wrap_authorization_btn":
+		{
+			"bg": "#141414",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF"
+		},
+		"authorization_btn":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"bd": 0,
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		},
+		"root":
+		{
+			"bg": "#141414"
+		},
+		"main_frame":
+		{
+			"bg": "#141414",
+			"highlightthickness": 1,
+			"highlightbackground": "#E6E6E6"
+		},
+		"top_main_frame":
+		{
+			"bg": "#141414"
+		},
+		"title":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"text_frame":
+		{
+			"bg": "#141414",
+			"highlightthickness": 1,
+			"highlightbackground": "#E6E6E6"
+		},
+		"text_frame_text":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"radio_frame":
+		{
+			"bg": "#141414"
+		},
+		"web_frame":
+		{
+			"bg": "#141414"
+		},
+		"locale_frame":
+		{
+			"bg": "#141414"
+		},
+		"locale_top_frame":
+		{
+			"bg": "#141414"
+		},
+		"locale_cover":
+		{
+			"bg": "#141414"
+		},
+		"locale_info_frame":
+		{
+			"bg": "#141414"
+		},
+		"locale_song_name":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"locale_control_frame":
+		{
+			"bg": "#141414"
+		},
+		"locale_wrapper_button_0":
+		{
+			"bg": "#141414"
+		},
+		"locale_wrapper_button_1":
+		{
+			"bg": "#141414"
+		},
+		"locale_wrapper_button_2":
+		{
+			"bg": "#141414"
+		},
+		"locale_wrapper_button_3":
+		{
+			"bg": "#141414"
+		},
+		"locale_button_0":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		},
+		"locale_button_1":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		},
+		"locale_button_2":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		},
+		"locale_button_3":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		},
+		"locale_song_scale_frame":
+		{
+			"bg": "#141414"
+		},
+		"locale_song_scale_wrapper":
+		{
+			"bg": "#141414"
+		},
+		"locale_song_scale":
+		{
+			"bg": "#141414"
+		},
+		"locale_song_lbl_now":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"locale_song_lbl_end":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"locale_song_volume_wrapper":
+		{
+			"bg": "#141414"
+		},
+		"locale_song_volume":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"highlightthickness": 0
+		},
+		"locale_playlist_frame":
+		{
+			"bg": "#141414"
+		},
+		"locale_itemlist":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"locale_itemlist_scrollbar":
+		{
+			"bg": "#141414"
+		},
+		"bottom_bar":
+		{
+			"bg": "#141414"
+		},
+		"wrap_btn_radio":
+		{
+			"bg": "#141414",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF"
+		},
+		"btn_radio":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"bd": 0,
+			"highlightbackground": "#E6E6E6",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF",
+			"selectcolor": "#262626"
+		},
+		"wrap_btn_web":
+		{
+			"bg": "#141414",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF"
+		},
+		"btn_web":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"bd": 0,
+			"highlightbackground": "#E6E6E6",
+			"activebackground": "#262626",
+			"activeforeground": "#FFFFFF",
+			"selectcolor": "#262626"
+		},
+		"wrap_btn_locale":
+		{
+			"bg": "#141414",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF"
+		},
+		"btn_locale":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"bd": 0,
+			"highlightbackground": "#E6E6E6",
+			"activebackground": "#262626",
+			"activeforeground": "#FFFFFF",
+			"selectcolor": "#262626"
+		}
+	},
+	"settings":
+	{
+		"root":
+		{
+			"bg": "#141414"
+		},
+		"left_master":
+		{
+			"bg": "#222222"
+		},
+		"itemlist_frame":
+		{
+			"bg": "#222222"
+		},
+		"itemlist_btn_0":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"highlightbackground": "#FFF",
+			"selectcolor": "#000000",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF"
+		},
+		"itemlist_btn_1":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"highlightbackground": "#FFF",
+			"selectcolor": "#000000",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF"
+		},
+		"itemlist_btn_2":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"highlightbackground": "#FFF",
+			"selectcolor": "#000000",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF"
+		},
+		"item_scrollbar":
+		{
+			"bg": "#222222",
+			"activebackground": "#666666"
+		},
+		"itemlist_box":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC"
+		},
+		"right_master":
+		{
+			"bg": "#222222",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF"
+		},
+		"top_frame":
+		{
+			"bg": "#222222"
+		},
+		"network_frame":
+		{
+			"bg": "#222222"
+		},
+		"host_entry_frame":
+		{
+			"bg": "#222222"
+		},
+		"host_entry":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC"
+		},
+		"host_label":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC"
+		},
+		"port_entry_frame":
+		{
+			"bg": "#222222"
+		},
+		"port_entry":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC"
+		},
+		"port_label":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC"
+		},
+		"theme_frame":
+		{
+			"bg": "#222222"
+		},
+		"theme_scrollbar":
+		{
+			"bg": "#222222",
+			"activebackground": "#666666"
+		},
+		"theme_itemlist":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC"
+		},
+		"equalizer_frame":
+		{
+			"bg": "#222222"
+		},
+		"equalizer_top_frame":
+		{
+			"bg": "#222222"
+		},
+		"equalizer_genres":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF"
+		},
+		"equalizer_save_btn_frame":
+		{
+			"bg": "#222222"
+		},
+		"equalizer_save_btn":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF"
+		},
+		"equalizer_bot_frame":
+		{
+			"bg": "#222222"
+		},
+		"equalizer_scale":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"activebackground": "#666666"
+		},
+		"equalizer_scale_lbl":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC"
+		},
+		"equalizer_scale_frame":
+		{
+			"bg": "#222222"
+		},
+		"bottom_frame":
+		{
+			"bg": "#222222"
+		},
+		"wrap_bottom_bar_btn_0":
+		{
+			"bg": "#222222"
+		},
+		"bottom_bar_btn_0":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF"
+		},
+		"wrap_bottom_bar_btn_1":
+		{
+			"bg": "#222222"
+		},
+		"bottom_bar_btn_1":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF"
+		},
+		"wrap_bottom_bar_btn_2":
+		{
+			"bg": "#222222"
+		},
+		"bottom_bar_btn_2":
+		{
+			"bg": "#222222",
+			"fg": "#BCBCBC",
+			"activebackground": "#222222",
+			"activeforeground": "#FFFFFF"
+		}
+	},
+	"authorization":
+	{
+		"root":
+		{
+			"bg": "#141414"
+		},
+		"top_frame":
+		{
+			"bg": "#141414"
+		},
+		"avatar_frame":
+		{
+			"bg": "#141414"
+		},
+		"avatar":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"info_frame":
+		{
+			"bg": "#141414"
+		},
+		"info_top_frame":
+		{
+			"bg": "#141414"
+		},
+		"name_lbl":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"date":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"action_menu":
+		{
+		},
+		"genres_frame":
+		{
+			"bg": "#141414"
+		},
+		"genres_lbl":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"genres_menu":
+		{
+		},
+		"groups_frame":
+		{
+			"bg": "#141414"
+		},
+		"groups_lbl":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"groups_menu":
+		{
+		},
+		"mid_frame":
+		{
+			"bg": "#141414",
+			"highlightthickness": 1,
+			"highlightcolor": "#FFFFFF"
+		},
+		"album_frame_0":
+		{
+			"bg": "#141414"
+		},
+		"album_frame_1":
+		{
+			"bg": "#141414"
+		},
+		"album_frame_2":
+		{
+			"bg": "#141414"
+		},
+		"album_frame_3":
+		{
+			"bg": "#141414"
+		},
+		"album_photo_0":
+		{
+			"bg": "#141414"
+		},
+		"album_photo_1":
+		{
+			"bg": "#141414"
+		},
+		"album_photo_2":
+		{
+			"bg": "#141414"
+		},
+		"album_photo_3":
+		{
+			"bg": "#141414"
+		},
+		"album_name_0":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"album_name_1":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"album_name_2":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"album_name_3":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"album_artist_0":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"album_artist_1":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"album_artist_2":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"album_artist_3":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC"
+		},
+		"bottom_frame":
+		{
+			"bg": "#141414"
+		},
+		"wrap_bottom_btn_0":
+		{
+			"bg": "#141414"
+		},
+		"wrap_bottom_btn_1":
+		{
+			"bg": "#141414"
+		},
+		"wrap_bottom_btn_2":
+		{
+			"bg": "#141414"
+		},
+		"bottom_btn_0":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		},
+		"bottom_btn_1":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		},
+		"bottom_btn_2":
+		{
+			"bg": "#141414",
+			"fg": "#BCBCBC",
+			"activebackground": "#333333",
+			"activeforeground": "#FFFFFF"
+		}
+	}
+}
